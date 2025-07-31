@@ -1,0 +1,11 @@
+{
+  "name": "example",
+  "scripts": {
+    "serve": "parcel serve index.html"
+  },
+  "dependencies": {
+    "@types/knockout": "^3.4.77",
+    "knockout": "^3.5.1",
+    "parcel": "^2.15.4"
+  }
+}
